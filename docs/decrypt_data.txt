@@ -1,0 +1,4 @@
+python components\espressif__esp_encrypted_img\tools\esp_enc_img_gen.py encrypt `
+  build\mastino_hub.bin `
+  key_tsall.pem `
+  build\mastino_hub.enc.bin
